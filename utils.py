@@ -7,8 +7,10 @@ from dotenv import load_dotenv
 # Load the .env file so os.environ can read it
 load_dotenv()
 
-# Read the API key from environment
-API_KEY = os.getenv("GEMINI_API_KEY")
+try:
+    API_KEY = st.secrets["GEMINI_API_KEY"]
+except Exception:
+    API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Configure Gemini with the key
 genai.configure(api_key=API_KEY)

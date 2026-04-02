@@ -85,3 +85,22 @@ Complete metamorphosis involves four distinct stages—egg, larva, pupa, and adu
 
 ### Incomplete Metamorphosis (Hemimetabolous)
 Incomplete metamorphosis consists of three stages—egg, nymph, and adult—where the juvenile nymph resembles a smaller, wingless version of the adult and develops through molting."
+direct,5,1,5,1128,2026-04-02 16:10:36,"Here's a summary of the technical decisions from your study notes:
+
+*   **LLM Selection:** Gemini 1.5 Flash was chosen over `gemini-pro` due to the latter's deprecation in the current API version.
+*   **UI Framework:** Streamlit was selected over Gradio for a more production-grade user interface, aligning closer with real data application tooling.
+*   **Evaluation Method:** An ""LLM-as-a-judge"" pattern is employed, where the model receives both original notes and generated summaries along with a scoring prompt. This prompt enforces JSON output, facilitating programmatic comparison of different strategies.
+*   **Experiment Logging:** Experiment results are persistently stored using CSV append mode with UTF-8 encoding, avoiding the need for a separate database.
+*   **Architectural Style:** A functional architecture was adopted, where each file has a single responsibility and functions use explicit inputs and outputs, improving pipeline traceability and debugging ease.
+*   **Input Handling:** Input validation is implemented prior to any API calls to gracefully manage empty, excessively short, or overly long inputs."
+concise,5,5,5,370,2026-04-02 16:10:40,"Technical decisions included selecting Gemini 1.5 Flash for API compatibility and Streamlit for a production-grade UI. An LLM-as-judge pattern with JSON output facilitated programmatic evaluation, with results persisted via CSV append mode. A functional architecture was chosen for traceability, complemented by input validation to gracefully manage diverse user inputs."
+chain_of_thought,2,1,5,593,2026-04-02 16:10:48,"Here's a summary of your study notes:
+
+### Gemini 1.5 Flash Selection
+Gemini 1.5 Flash was chosen as the large language model due to the deprecation of gemini-pro in the current API version.
+
+### Streamlit UI Framework
+Streamlit was selected over Gradio for the user interface to achieve a more production-grade look and feel, mirroring real data application tools.
+
+### LLM-as-Judge Evaluation Pattern
+The LLM-as-judge pattern is employed for evaluation, where the model scores generated summaries against original notes using a JSON-enforced scoring prompt, enabling programmatic comparison."
