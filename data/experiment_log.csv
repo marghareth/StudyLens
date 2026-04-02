@@ -1,0 +1,87 @@
+style,completeness,conciseness,clarity,summary_length,timestamp,summary
+direct,0,0,0,44,2026-04-01 15:06:37,Summary generation failed. Please try again.
+concise,0,0,0,44,2026-04-01 15:06:37,Summary generation failed. Please try again.
+chain_of_thought,0,0,0,44,2026-04-01 15:06:37,Summary generation failed. Please try again.
+direct,5,4,5,1401,2026-04-01 15:11:44,"Here's a summary of your study notes on metamorphosis:
+
+*   **Definition**: Metamorphosis is a biological process of significant physical transformation an animal undergoes after birth or hatching. It involves abrupt changes in body structure, behavior, and habitat, typically transitioning the animal from a larval stage to a distinct adult stage. It is common in insects (e.g., butterflies) and amphibians (e.g., frogs).
+
+*   **Key Types of Metamorphosis**:
+    *   **Complete Metamorphosis (Holometabolous)**:
+        *   Involves four distinct stages: egg, larva, pupa, and adult.
+        *   The adult form does not resemble the larval form.
+    *   **Incomplete Metamorphosis (Hemimetabolous)**:
+        *   Consists of three stages: egg, nymph, and adult.
+        *   The juvenile form (nymph) resembles a smaller, often wingless, version of the adult.
+
+*   **Examples and Stages**:
+    *   **Complete Metamorphosis**:
+        *   **Butterflies/Moths**: Egg → Larva (caterpillar) → Pupa (chrysalis) → Adult.
+        *   **Frogs**: Egg → Larva (tadpole) → Adult.
+    *   **Incomplete Metamorphosis**:
+        *   Seen in insects like grasshoppers, dragonflies, and cockroaches, which transition from nymph to adult by molting.
+
+*   **Significance**: Metamorphosis allows animals to adapt and evolve, often by separating the food sources of juveniles and adults, which helps to maximize survival."
+concise,2,5,5,414,2026-04-01 15:11:54,"Metamorphosis is a biological process of significant post-birth or hatching transformation, involving abrupt changes in an animal's body structure, behavior, and habitat. It commonly occurs in insects and amphibians, transitioning animals from a larval or nymph stage to a distinct adult form. This process allows for adaptation and evolution, often separating juvenile and adult food sources to maximize survival."
+chain_of_thought,4,5,5,1052,2026-04-01 15:12:04,"Here's a summary of your study notes on metamorphosis:
+
+### What is Metamorphosis?
+Metamorphosis is a biological process where an animal undergoes a significant physical transformation, involving abrupt changes in body structure, behavior, and habitat as it develops from an immature form (like a larva or tadpole) into a distinct adult stage.
+
+### Key Types of Metamorphosis
+There are two main types: Complete Metamorphosis (holometabolous) features four distinct stages (egg, larva, pupa, adult) where the adult does not resemble the larva, while Incomplete Metamorphosis (hemimetabolous) involves three stages (egg, nymph, adult) where the nymph resembles a smaller, wingless version of the adult.
+
+### Examples and Importance
+Examples include butterflies, which undergo complete metamorphosis through egg, larva (caterpillar), pupa (chrysalis), and adult stages, and frogs, which transition from egg to larva (tadpole) to adult; this process allows animals to adapt, evolve, and often separates juvenile and adult food sources to maximize survival."
+direct,5,4,5,1477,2026-04-01 16:02:46,"Here's a summary of your study notes on metamorphosis:
+
+*   **Definition:** Metamorphosis is a biological process of significant transformation where an animal undergoes abrupt physical changes in body structure, behavior, and habitat during development after birth or hatching. It typically involves a transition from a larval stage to a distinct adult stage.
+*   **Common Organisms:** This process is common in insects (e.g., butterflies) and amphibians (e.g., frogs).
+*   **Key Types of Metamorphosis:**
+    *   **Complete Metamorphosis (Holometabolous):**
+        *   Involves four distinct stages: egg, larva, pupa, and adult.
+        *   The adult form does not resemble the larval form (e.g., a caterpillar is very different from a butterfly).
+    *   **Incomplete Metamorphosis (Hemimetabolous):**
+        *   Involves three stages: egg, nymph, and adult.
+        *   The juvenile stage (nymph) resembles a smaller, often wingless, version of the adult.
+*   **Examples and Stages:**
+    *   **Butterflies/Moths (Complete):** Egg → Larva (caterpillar) → Pupa (chrysalis) → Adult.
+    *   **Frogs (Amphibian):** Egg → Larva (tadpole) → Adult (frog).
+    *   **Insects (Incomplete):** Grasshoppers, dragonflies, and cockroaches develop from a nymph to an adult primarily through a process of molting.
+*   **Significance:** Metamorphosis enables animals to adapt and evolve, often by separating the food sources of juveniles and adults, which helps maximize survival rates."
+concise,4,5,5,532,2026-04-01 16:02:55,"Metamorphosis is a biological process of significant post-birth transformation in an animal's body structure, behavior, and habitat, transitioning from a larval or juvenile stage to a distinct adult. It features two main types: complete metamorphosis, with four distinct stages where the adult does not resemble the larva, and incomplete metamorphosis, with three stages where the juvenile resembles a smaller adult. This process aids adaptation and evolution by often separating juvenile and adult food sources to enhance survival."
+chain_of_thought,4,5,5,922,2026-04-01 16:03:03,"Here is a structured summary of your study notes on metamorphosis:
+
+### What is Metamorphosis?
+Metamorphosis is a significant biological transformation process where an animal undergoes abrupt physical development, changing its body structure, behavior, and habitat, typically from a larval or immature stage to a distinct adult form.
+
+### Key Types of Metamorphosis
+There are two primary types: complete (holometabolous), which involves four distinct stages (egg, larva, pupa, adult) where the adult does not resemble the larva; and incomplete (hemimetabolous), which involves three stages (egg, nymph, adult) where the nymph resembles a smaller, wingless version of the adult.
+
+### Examples and Stages
+Examples include butterflies with egg, larva (caterpillar), pupa (chrysalis), and adult stages, and frogs with egg, larva (tadpole), and adult stages, demonstrating the varied progression of this developmental process."
+direct,5,3,5,1329,2026-04-01 16:28:07,"Here's a summary of your study notes on metamorphosis:
+
+*   **Definition:** Metamorphosis is a biological process of significant transformation where an animal undergoes abrupt physical changes in body structure, behavior, and habitat after birth or hatching. It typically transitions an animal from a larval stage to a distinct adult stage.
+*   **Commonality:** This process is common in many insects (e.g., butterflies, moths) and amphibians (e.g., frogs).
+*   **Key Types:**
+    *   **Complete Metamorphosis (Holometabolous):**
+        *   Involves four distinct stages: egg, larva, pupa, and adult.
+        *   The adult form does not resemble the larval form.
+        *   **Examples:** Butterflies/Moths (egg → larva/caterpillar → pupa/chrysalis → adult), Frogs (egg → larva/tadpole → adult frog).
+    *   **Incomplete Metamorphosis (Hemimetabolous):**
+        *   Involves three stages: egg, nymph, and adult.
+        *   The juvenile form (nymph) generally resembles a smaller, wingless version of the adult.
+        *   **Examples:** Grasshoppers, dragonflies, and cockroaches, which transition from nymph to adult through molting.
+*   **Purpose/Significance:** Metamorphosis enables animals to adapt and evolve, often by separating the food sources and habitats of juveniles and adults, which helps to maximize survival."
+concise,0,0,0,558,2026-04-01 16:28:14,"Metamorphosis is a biological process of significant physical transformation where an animal undergoes abrupt changes in body structure, behavior, and habitat from a juvenile to a distinct adult stage. It is categorized as complete (holometabolous) with egg, larva, pupa, and adult stages where the adult differs greatly from the larva, or incomplete (hemimetabolous) with egg, nymph, and adult stages where the nymph resembles a small adult. This process enhances adaptation and survival, often by diversifying food sources between juvenile and adult forms."
+chain_of_thought,0,0,0,758,2026-04-01 16:28:15,"Here is a summary of your study notes on Metamorphosis:
+
+### What is Metamorphosis?
+Metamorphosis is a biological process where an animal undergoes significant physical transformation, including changes in body structure, behavior, and habitat, typically from a larval or juvenile stage to a distinct adult form.
+
+### Complete Metamorphosis (Holometabolous)
+Complete metamorphosis involves four distinct stages—egg, larva, pupa, and adult—where the adult form is significantly different from the larval stage, as seen in butterflies.
+
+### Incomplete Metamorphosis (Hemimetabolous)
+Incomplete metamorphosis consists of three stages—egg, nymph, and adult—where the juvenile nymph resembles a smaller, wingless version of the adult and develops through molting."
