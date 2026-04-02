@@ -5,6 +5,9 @@ StudyLens transforms raw, unstructured study notes into clean summaries and quiz
 
 Instead of running one prompt and returning one output, StudyLens runs **three different prompt strategies** on the same notes, scores each output using the LLM itself, and visualizes which strategy performed best. This turns a productivity tool into a mini research experiment.
 
+Live demo: https://studylens-jayksf5i2hwyllcmw2xxun.streamlit.app/
+Click the link to see how it works.
+
 ---
 
 ## What It Does
