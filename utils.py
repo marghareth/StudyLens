@@ -7,10 +7,18 @@ from dotenv import load_dotenv
 # Load the .env file so os.environ can read it
 load_dotenv()
 
+# Fix: import streamlit properly before using st.secrets
 try:
+    import streamlit as st
     API_KEY = st.secrets["GEMINI_API_KEY"]
 except Exception:
     API_KEY = os.getenv("GEMINI_API_KEY")
+
+if not API_KEY:
+    raise ValueError(
+        "GEMINI_API_KEY not found. "
+        "Add it to your .env file or Streamlit secrets."
+    )
 
 # Configure Gemini with the key
 genai.configure(api_key=API_KEY)
